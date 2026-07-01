@@ -1,42 +1,108 @@
-# Akhil Pamba
+<div align="center">
 
-Data and Business Analyst based in Indianapolis. Just finished my Master's in Data Analytics (STEM) at Indiana Wesleyan University in May 2025, and I'm currently on OPT looking for full-time remote roles.
+# Hi, I'm Akhil Pamba 👋
 
-My background covers both sides — I can dig into data with SQL and Python and build BI dashboards, but I also have experience on the business side doing requirements gathering, process mapping, and documentation. These repos are split into two sections so it's easy to see both.
+### Data Analyst · Business Intelligence Analyst
 
----
+Turning multi-source data into decisions with SQL, Python, and AI-assisted workflows.
 
-## Data Analyst Projects
+[![Email](https://img.shields.io/badge/Email-akhilpamba26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilpamba26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
-**[customer-churn-prediction](https://github.com/akhilpamba02/customer-churn-prediction)**
-Retail churn model built on ~50K customer records. Started with EDA, engineered RFM features, tried logistic regression first then random forest — random forest was significantly better at 87% accuracy and 0.91 AUC after tuning. Built a Tableau dashboard on top to visualize churn risk by customer segment.
-`Python` `Scikit-learn` `SQL` `Tableau`
-
-**[sales-performance-dashboard](https://github.com/akhilpamba02/sales-performance-dashboard)**
-SQL-heavy project. Aggregated 2 years of sales data across 5 product lines and built a Power BI dashboard. The analysis surfaced $2M+ in underperforming SKUs that weren't showing up in the old weekly reports. Also ran a 6-month revenue forecast that came in at 93% accuracy against actuals.
-`SQL` `Power BI` `DAX` `Excel`
-
-**[hr-workforce-analysis](https://github.com/akhilpamba02/hr-workforce-analysis)**
-EDA on ~5,000 employee records to find what was actually driving voluntary turnover. Used chi-square hypothesis testing — top 3 factors were tenure band (1-2 years), department, and compensation quartile, all significant at p < 0.05. Presented findings as a Tableau storyboard.
-`Python` `Tableau` `Excel`
+</div>
 
 ---
 
-## Business Analyst Projects
+### 🧭 About Me
 
-**[retail-operations-ba](https://github.com/akhilpamba02/retail-operations-ba)**
-End-to-end BA project for a retail inventory management system. Ran stakeholder interviews with store managers, warehouse staff, and finance. Produced a full BRD, 15 user stories with acceptance criteria, current and future state process flows, and UAT test cases. The main finding was that the manual reorder process was eating 3-4 hours per store per week and could be fully automated.
-`BRD` `User Stories` `Process Mapping` `UAT` `JIRA`
-
-**[banking-onboarding-ba](https://github.com/akhilpamba02/banking-onboarding-ba)**
-BA project focused on fixing a slow customer onboarding process at a regional bank — average time was 7-10 days due to duplicate document requests and manual handoffs between teams. Mapped the as-is process, identified 3 bottlenecks, designed the future state, and wrote the FRD and UAT plan. Target after redesign was 2-3 days.
-`Gap Analysis` `FRD` `Process Mapping` `UAT` `Confluence`
-
----
-
-## Skills
-SQL · Python (pandas, scikit-learn, seaborn) · Tableau · Power BI · SSIS/ETL · Excel · JIRA · Confluence · Agile/Scrum
+- 🎓 M.S. in Management (Data Analytics), Indiana Wesleyan University
+- 🔭 Currently building self-directed analytics projects in **finance, healthcare, and retail**
+- 🛠️ Building ETL pipelines, Power BI / Tableau dashboards, and statistical models with **SQL + Python**
+- 🤖 Integrating **Claude** and **GitHub Copilot** into my analytics workflow to speed up SQL development and documentation
+- 📈 Past impact: cut ETL processing time from 4 hrs → under 1 hr, reduced manual reporting effort ~30%
+- 💬 Ask me about: SQL optimization, Power BI/DAX, churn & forecasting models, A/B testing, data storytelling
+- 🇺🇸 Authorized to work in the U.S. under F-1 OPT
 
 ---
 
-📧 akhilpamba02@gmail.com · [LinkedIn](https://linkedin.com/in/akhil-pamba-1ab259358)
+### 🧰 Tech Stack
+
+**Languages & Analysis**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Databases & Engineering**
+![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SSIS](https://img.shields.io/badge/-ETL%2FSSIS-336791?style=flat-square&logo=databricks&logoColor=white)
+
+**AI & Tools**
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[Sales Performance & Demand Forecasting](https://github.com/akhilpamba02/sales-performance-dashboard)**
+
+SQL + Power BI DAX analysis surfacing **$2M+** in underperforming SKUs, plus a Python forecasting layer reaching **93% accuracy**.
+
+`SQL` `Python` `Power BI`
+
+</td>
+<td width="33%" valign="top">
+
+**[Customer Churn Prediction](https://github.com/akhilpamba02/customer-churn-prediction)**
+
+Random forest model on a 50K-record retail dataset (RFM features + SMOTE) reaching **87% accuracy, 0.91 AUC-ROC**, visualized in Tableau.
+
+`Python` `scikit-learn` `Tableau`
+
+</td>
+<td width="33%" valign="top">
+
+**[HR Workforce Turnover Analysis](https://github.com/akhilpamba02/hr-workforce-analysis)**
+
+Chi-square hypothesis testing on 5,000 employee records to isolate significant turnover drivers, visualized in a Tableau storyboard.
+
+`Python` `SQL` `Tableau`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilpamba02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpamba02&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilpamba02&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with SQL, Python, and a lot of coffee ☕ — thanks for stopping by!</sub>
+</div>
